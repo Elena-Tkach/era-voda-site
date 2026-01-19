@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Host: era-voda.kz
+Sitemap: https://era-voda.kz/sitemap.xml
+Disallow: /img/
+Disallow: /css
+Disallow: /js
