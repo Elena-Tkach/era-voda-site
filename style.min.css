@@ -136,6 +136,11 @@ html::-webkit-scrollbar-thumb {
   text-transform: uppercase;
 }
 
+.quest__form {
+  margin: 0 auto;
+  width: 80%;
+}
+
 .title--first {
   color: #fff;
   color: var(--bs-gray-dark);
